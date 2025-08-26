@@ -38,6 +38,7 @@ probability = experiment(
 
 print(probability)
 # ~0.35 (varies due to randomness)
+```
 
 ---
 
