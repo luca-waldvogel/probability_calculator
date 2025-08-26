@@ -44,15 +44,15 @@ print(probability)
 
 ## ⚙️ How It Works
 
-# 1. Hat Initialization
+### 1. Hat Initialization
 Creates a "hat" filled with the specified numbers of balls of each color.
 ```python
 hat = Hat(black=6, red=4, green=3)
 # hat.contents = ['black','black',...,'red','red',...,'green','green',...]
 ```
 
-# 2. Draw
+### 2. Draw
 Removes a specified number of random balls from the hat (without replacement).
 
-# 3. Experiment
+### 3. Experiment
 Repeats the draw process a given number of times and measures how often the desired set of balls was drawn.
