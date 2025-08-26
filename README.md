@@ -2,7 +2,7 @@
 
 This project simulates drawing balls of different colors from a hat and estimates the **probability** of drawing a desired combination.
 
-It was built as part of my **Scientific Computing with Python Certification** to practice simulation and randomness in Python.
+It was created as part of my **Scientific Computing with Python Certification** to practice simulation and randomness in Python.  
 👉 [View my certification here](https://freecodecamp.org/certification/lucawaldvogel/scientific-computing-with-python-v7)
 
 ---
